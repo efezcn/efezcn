@@ -1,10 +1,6 @@
 <h1 align="center">Yo! I'm Efe</h1>
 <h3 align="center">Just a boy with a computer :></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efezcn&label=Total%20Profile%20views&color=ae00ff&style=plastic" alt="efezcn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efezcn" alt="efezcn" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/efezcn_offical" target="blank"><img src="https://img.shields.io/twitter/follow/efezcn_offical?logo=twitter&style=for-the-badge" alt="efezcn_offical" /></a> </p>
 
 - 🔭 I’m currently working on **UGC Sniper**
@@ -12,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/efezcn_offical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efezcn_offical" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/efezcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="efezcn" height="30" width="40" /></a>
 <a href="https://discord.gg/kYnrt5rcKJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kYnrt5rcKJ" height="30" width="40" /></a>
 </p>
 
