@@ -4,7 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/efezcn_offical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efezcn_offical" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/efezcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="efezcn" height="30" width="40" /></a>
 <a href="https://discord.gg/kYnrt5rcKJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kYnrt5rcKJ" height="30" width="40" /></a>
 </p>
